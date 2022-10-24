@@ -3,7 +3,7 @@
 // Set all variables  
 
 let secretNumber = Math.trunc(Math.random() * 20) + 1;
-let score = 20;
+let score = 6;
 let check = document.querySelector('.check');
 let highScore = 0;
 
